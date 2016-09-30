@@ -1,0 +1,19 @@
+/*
+tipo	;	fortaleza	;	debilidad	;	no_afecta
+normal	;	null	;	roca	;	null
+fuego	;	planta, hielo, bicho,acero	;	fuego, agua, roca, dragon	;	null
+agua	;	fuego, tierra, roca	;		;	null
+electrico	;	agua, volador	;		;	tierra
+planta	;	agua, tierra, roca	;		;	null
+hielo	;	planta, tierra, volador, dragon	;		;	null
+lucha	;	normal, hielo, roca, acero	;		;	null
+veneno	;	planta, bicho	;		;	acero
+tierra	;	fuego, electrico, veneno, roca, acero	;		;	volador
+volador	;	planta, lucha, bicho	;		;	null
+psiquico	;	lucha, veneno	;		;	null
+bicho	;	planta, veneno, psiquico	;		;	null
+roca	;	fuego, volador, bicho	;		;	null
+dragon	;	null	;		;	null
+acero	;	hielo, roca	;		;	null
+siniestro	;	psiquico	;		;	normal
+*/
