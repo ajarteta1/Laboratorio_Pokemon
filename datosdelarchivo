@@ -1,4 +1,4 @@
-numero; 	Nombre   ;          tipo#1   ;       vida_max 	;	  ataque_max	  ;  defensa_max	  ;	  evolucion	  ;	  lugar
+/*numero; 	Nombre   ;          tipo#1   ;       vida_max 	;	  ataque_max	  ;  defensa_max	  ;	  evolucion	  ;	  lugar
 001	;	bulbasaur	;	planta	;	80	;	70	;	65	;	ivasaur	;	null
 002	;	ivasaur 	;	planta	;	80	;	105	;	65	;	venusaur	;	null
 003	;	venusaur	;	planta	;	80	;	82	;	83	;	null	;	null
@@ -150,3 +150,4 @@ numero; 	Nombre   ;          tipo#1   ;       vida_max 	;	  ataque_max	  ;  defe
 149	;	dragonite	;	dragon	;	30	;	45	;	55	;	null	;	grass
 150	;	mewtwo	;	psiquico	;	40	;	35	;	30	;	null	;	grass
 151	;	mew	;	psiquico	;	59	;	63	;	80	;	null	;	grass
+*/
