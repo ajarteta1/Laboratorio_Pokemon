@@ -37,6 +37,8 @@ public class Inventario {
         }
         width = col * (Slots.tam + 10);
         height = fil * (Slots.tam + 10);
+        slots.get(0).additem(new Pokeballs("holamundo"), 6);
+        
     }
 
     public void tick() {
